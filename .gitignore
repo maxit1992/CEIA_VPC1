@@ -131,3 +131,4 @@ dmypy.json
 # Large files
 TP5/videos/
 TP6/videos/
+*.pdf
